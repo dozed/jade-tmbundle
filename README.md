@@ -20,6 +20,10 @@ Installation for TextMate 2:
     cd ~/Library/Application\ Support/Avian/Pristine\ Copy/Bundles
     git clone https://github.com/miksago/jade-tmbundle Jade.tmbundle
 
-The bundle currently only includes syntax highlighting.
+## Jade
+Install Jade: http://jade-lang.com/
+
+For nodejs:
+    npm install -g jade
 
 Patches for additions are always welcome.
