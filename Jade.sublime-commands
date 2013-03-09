@@ -1,0 +1,7 @@
+[
+	{
+		"caption": "Jade: Display html",
+		"command": "compile_and_display_jade", 
+		"args": {"opt": "-P"}
+	}
+]

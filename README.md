@@ -33,4 +33,10 @@ A highlighter using Python instead of JavaScript is also included for use with
     cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
     git clone https://github.com/davidrios/jade-tmbundle.git Jade
 
+### Jade
+Install Jade: http://jade-lang.com/
+
+For nodejs:
+    npm install -g jade
+
 Patches for additions are always welcome.
