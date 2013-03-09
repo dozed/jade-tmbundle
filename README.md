@@ -38,11 +38,12 @@ A highlighter using Python instead of JavaScript is also included for use with
 Install Jade: http://jade-lang.com/
 
 For nodejs:
+
     npm install -g jade
 
 ### html2jade
 
-See. https://github.com/donpark/html2jade
+See: https://github.com/donpark/html2jade
 
     npm install -g html2jade
 
