@@ -3,5 +3,9 @@
 		"caption": "Jade: Display html",
 		"command": "compile_and_display_jade", 
 		"args": {"opt": "-P"}
-	}
+	},
+  {
+    "caption": "Jade: Html2Jade", 
+    "command": "html_to_jade"
+  }  
 ]
