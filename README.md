@@ -34,9 +34,16 @@ A highlighter using Python instead of JavaScript is also included for use with
     git clone https://github.com/davidrios/jade-tmbundle.git Jade
 
 ### Jade
+
 Install Jade: http://jade-lang.com/
 
 For nodejs:
     npm install -g jade
+
+### html2jade
+
+See. https://github.com/donpark/html2jade
+
+    npm install -g html2jade
 
 Patches for additions are always welcome.
