@@ -169,7 +169,7 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>^(\s*):(markdown)(?=\(|$)$</string>
+			<string>^(\s*):[!&amp;]?~?(markdown)(?=\(|$)$</string>
 			<key>beginCaptures</key>
 			<dict>
 				<key>2</key>
@@ -196,7 +196,7 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>^(\s*):(sass)(?=\(|$)$</string>
+			<string>^(\s*):[!&amp;]?~?(sass)(?=\(|$)$</string>
 			<key>beginCaptures</key>
 			<dict>
 				<key>2</key>
@@ -223,7 +223,7 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>^(\s*):(less)(?=\(|$)$</string>
+			<string>^(\s*):[!&amp;]?~?(less)(?=\(|$)$</string>
 			<key>beginCaptures</key>
 			<dict>
 				<key>2</key>
@@ -250,7 +250,7 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>^(\s*):(stylus)(?=\(|$)$</string>
+			<string>^(\s*):[!&amp;]?~?(stylus)(?=\(|$)$</string>
 			<key>beginCaptures</key>
 			<dict>
 				<key>2</key>
@@ -277,7 +277,7 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>^(\s*):(coffeescript)(?=\(|$)</string>
+			<string>^(\s*):[!&amp;]?~?(coffeescript)(?=\(|$)</string>
 			<key>beginCaptures</key>
 			<dict>
 				<key>2</key>
@@ -304,7 +304,7 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>^(\s*):!?(javascript)(?=\(|$)$</string>
+			<string>^(\s*):[!&amp;]?~?(javascript)(?=\(|$)$</string>
 			<key>beginCaptures</key>
 			<dict>
 				<key>2</key>
